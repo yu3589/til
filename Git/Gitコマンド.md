@@ -1,0 +1,3 @@
+- git log : コミットの履歴確認
+- git stash : コミットしたくないファイルの一時退避
+- git fetch : margeをせずに履歴を取得
