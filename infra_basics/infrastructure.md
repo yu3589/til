@@ -63,7 +63,7 @@ APサーバーとDBサーバーは `config/database.yml` などで接続情報�
 
 ---
 
-## DNSとは？
+### DNSとは？
 
 - `DNS`（Domain Name System）：ドメイン名 ↔ IPアドレス の変換
 - `DNSサーバー`：名前解決を行うサーバー
